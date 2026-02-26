@@ -231,12 +231,15 @@ I'm passionate about creating elegant solutions to complex problems, mentoring d
 
 <p align="center">
 <a href="https://github.com/Timon0305">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Timon0305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timon0305&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 
