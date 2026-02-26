@@ -1,4 +1,4 @@
-![Zilin Jin](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zilin%20Jin&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
 
 
 
@@ -11,7 +11,7 @@
   
 </h1>
 
-Hi, I'm **Ivan Skripka** - a Frontend-focused Full Stack Engineer with 8 years of experience building modern web applications.
+Hi, I'm **Zilin Jin** - a Frontend-focused Full Stack Engineer with 8 years of experience building modern web applications.
 
 Proficient in React, TypeScript, Next.js, Angular, and Vue.js, with additional expertise in Node.js and cloud deployment. I've delivered enterprise dashboards, e-commerce platforms, and AI-powered tools that enhanced efficiency and user experience. I led a system migration that reduced downtime by 30%.
 
@@ -23,315 +23,231 @@ I'm passionate about creating elegant solutions to complex problems, mentoring d
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools...
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<p align="center">
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-  <!-- Frontend Frameworks -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <br />
-  <!-- Languages -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <br />
-  <!-- Styling -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
-  <br />
-  <!-- Backend - Node/JS -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <br />
-  <!-- Backend - Python -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-  <br />
-  <!-- Backend - Java -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
-  <br />
-  <!-- Database -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
-  <br />
-  <!-- Cloud & DevOps -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <br />
-  <!-- Testing -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <br />
-  <!-- Mobile & AI -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-  <br />
-</p>
+### AI & Integration
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Professional Experience
 
-**Abundant AI | AI Engineer** &nbsp; *September 2025 - Present | United States (Remote)*
-- Pushing the boundaries of AI by developing and integrating cutting-edge AI solutions
-- Building AI-powered tools and applications to enhance user productivity and experience
-- Collaborating with cross-functional teams to deliver innovative AI-driven features
-
-**Dependable Aviation | Frontend Developer** &nbsp; *April 2025 - September 2025 | United States (Remote)*
-- Developed responsive web applications for an aviation training platform, enabling students to book lessons and access ground school materials
-- Built reusable UI components using React.js and TypeScript, improving code maintainability
-- Implemented interactive scheduling system for flight training sessions based on instructor availability
-
-**FUZEMOBI, L.L.C. | Full Stack Software Engineer** &nbsp; *May 2024 - March 2025 | United States (Remote)*
-- Led development of scalable web solutions, transforming complex technological challenges into elegant applications
-- Architected and deployed full-stack applications using React, Next.js, Node.js, and cloud infrastructure
-- Implemented SEO optimization strategies improving organic search visibility for client projects
-- Mentored junior developers and established coding standards across the engineering team
-
-**Dependable Painting | Senior Frontend Developer** &nbsp; *October 2023 - April 2024 | United States (Remote)*
-- Led frontend development for a painting and remodeling company, contributing to high ratings across Google, Facebook, and Yelp
-- Designed and built responsive website showcasing services, portfolio galleries, and customer testimonials
-- Developed online quote request system, streamlining customer inquiries and improving lead generation
-
-**Signed Trade | Blockchain Developer** &nbsp; *December 2022 - September 2023 | California, United States (Remote)*
-- Developed decentralized music investment platform enabling artists and fans to tokenize and trade music assets
-- Built responsive frontend interfaces using Angular and Tailwind CSS for seamless user experience
-- Wrote and deployed smart contracts using Solidity for secure, transparent transactions
-
-**Utalk | Mobile Application Developer** &nbsp; *March 2022 - August 2022 | United States (Remote)*
-- Developed cross-platform mobile application for language learning, serving speakers of 100+ languages
-- Built mobile interfaces using React Native and React with Redux state management
-- Integrated RESTful APIs and Google Cloud Platform services for scalable backend operations
-
-**Dap-ayan | Project Manager / Technical Lead** &nbsp; *January 2022 - February 2022 | New Zealand (Remote)*
-- Led development of cultural heritage platform preserving traditional dap-ayan practices of Ilocos Norte
-- Managed migration of legacy Zend backend to Laravel/Node.js, reducing query time by 44%
-- Oversaw frontend development using Next.js with real-time WebSocket features
-
-**Cigna Healthcare | Full Stack Developer** &nbsp; *January 2019 - December 2021 | United States (Remote)*
-- Developed and maintained enterprise membership management system using Angular
-- Designed RESTful APIs connecting frontend with Java Spring Boot backend services
-- Managed data operations with OracleDB and containerized applications using Docker
-- Implemented CI/CD pipelines and ensured HIPAA compliance for healthcare data
-
-**KCP Finance | Full Stack Developer** &nbsp; *January 2018 - December 2018 | Philippines (Remote)*
-- Planned and executed migration from Heroku to Google Cloud, saving 30% in service fees
-- Improved system scalability for APIs, databases, caching, and workflows
-- Developed e-commerce features using WooCommerce, TypeScript, Node.js, and GraphQL
-
-**iLearn Technology | Programmer** &nbsp; *March 2017 - December 2017 | United Kingdom (Remote)*
-- Built product search engine functionality contributing to $320K quarterly sales in 2018
-- Reviewed code, debugged problems, and resolved issues in existing web systems
-- Collaborated with 3 engineering teams using MERN Stack and PHP
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Role</th>
+      <th>Period</th>
+      <th>Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Abundant AI</strong></td>
+      <td>AI Engineer</td>
+      <td>Sep 2025 - Present</td>
+      <td>
+        <ul>
+          <li>Developing and integrating cutting-edge AI solutions</li>
+          <li>Building AI-powered tools to enhance user productivity</li>
+          <li>Collaborating with cross-functional teams on AI-driven features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Dependable Aviation</strong></td>
+      <td>Frontend Developer</td>
+      <td>Apr 2025 - Sep 2025</td>
+      <td>
+        <ul>
+          <li>Built aviation training platform with React.js & TypeScript</li>
+          <li>Implemented interactive scheduling for flight training sessions</li>
+          <li>Ensured mobile responsiveness and cross-browser compatibility</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>FUZEMOBI, L.L.C.</strong></td>
+      <td>Full Stack Software Engineer</td>
+      <td>May 2024 - Mar 2025</td>
+      <td>
+        <ul>
+          <li>Architected full-stack apps with React, Next.js, Node.js & cloud</li>
+          <li>Implemented SEO strategies improving organic search visibility</li>
+          <li>Mentored junior developers & established coding standards</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Dependable Painting</strong></td>
+      <td>Senior Frontend Developer</td>
+      <td>Oct 2023 - Apr 2024</td>
+      <td>
+        <ul>
+          <li>Led frontend development contributing to high ratings on Google, Facebook & Yelp</li>
+          <li>Built online quote request system improving lead generation</li>
+          <li>Optimized Core Web Vitals increasing organic search traffic</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Signed Trade</strong></td>
+      <td>Blockchain Developer</td>
+      <td>Dec 2022 - Sep 2023</td>
+      <td>
+        <ul>
+          <li>Developed decentralized music investment platform</li>
+          <li>Built frontend with Angular & Tailwind CSS</li>
+          <li>Wrote & deployed smart contracts using Solidity</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Utalk</strong></td>
+      <td>Mobile Application Developer</td>
+      <td>Mar 2022 - Aug 2022</td>
+      <td>
+        <ul>
+          <li>Built cross-platform language learning app for 100+ languages</li>
+          <li>Developed mobile interfaces with React Native & Redux</li>
+          <li>Integrated RESTful APIs & Google Cloud Platform services</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Dap-ayan</strong></td>
+      <td>Project Manager / Technical Lead</td>
+      <td>Jan 2022 - Feb 2022</td>
+      <td>
+        <ul>
+          <li>Led cultural heritage platform development</li>
+          <li>Migrated legacy Zend to Laravel/Node.js, reducing query time by 44%</li>
+          <li>Oversaw Next.js frontend with real-time WebSocket features</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Cigna Healthcare</strong></td>
+      <td>Full Stack Developer</td>
+      <td>Jan 2019 - Dec 2021</td>
+      <td>
+        <ul>
+          <li>Built enterprise membership management system with Angular</li>
+          <li>Designed RESTful APIs with Java Spring Boot backend</li>
+          <li>Implemented CI/CD pipelines & ensured HIPAA compliance</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>KCP Finance</strong></td>
+      <td>Full Stack Developer</td>
+      <td>Jan 2018 - Dec 2018</td>
+      <td>
+        <ul>
+          <li>Migrated Heroku to Google Cloud, saving 30% in service fees</li>
+          <li>Improved system scalability for APIs, databases & caching</li>
+          <li>Developed e-commerce features with WooCommerce & GraphQL</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>iLearn Technology</strong></td>
+      <td>Programmer</td>
+      <td>Mar 2017 - Dec 2017</td>
+      <td>
+        <ul>
+          <li>Built product search engine contributing to $320K quarterly sales</li>
+          <li>Resolved issues in existing web systems</li>
+          <li>Collaborated with 3 engineering teams using MERN Stack & PHP</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-<h2 align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github stats </h2>
-
-
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Timon0305}/count.svg" alt="Timon0305 :: Visitor's Count" /></p>
-
-<h2 align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics:</h2>
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <p align="center">
 <a href="https://github.com/Timon0305">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Timon0305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 <p align="center">
-<img align="center" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=radical&hide_border=true)" alt="Timon0305's github stats" />
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon0305&layout=compact&theme=radical" />
-
-
-
-
-
-</p>
-<p align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Timon0305&show_icons=true&include_all_commits=true&theme=radical" alt="Timon0305's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
 
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Activity
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Connect with me
 
-
-<p align="center" dir="auto" style="text-align:center;">
-
-
-   <img alig src="https://github-profile-trophy.vercel.app/?username=Timon0305&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Happy Writing
-
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-
-</p>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My top followers
-
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/xSomoy">
-        <img src="https://avatars2.githubusercontent.com/u/47719599" width="100px;" alt="xSomoy"/>
-      </a>
-      <br />
-      <a href="https://github.com/xSomoy">Somoy</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ankushbanik1">
-        <img src="https://avatars2.githubusercontent.com/u/43584522" width="100px;" alt="ankushbanik1"/>
-      </a>
-      <br />
-      <a href="https://github.com/ankushbanik1">Ankush Banik</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mgmgpyaesonewin">
-        <img src="https://avatars2.githubusercontent.com/u/12793202" width="100px;" alt="mgmgpyaesonewin"/>
-      </a>
-      <br />
-      <a href="https://github.com/mgmgpyaesonewin">Pyae Sone Win</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ZoeDreams">
-        <img src="https://avatars2.githubusercontent.com/u/14066277" width="100px;" alt="ZoeDreams"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZoeDreams">Kara Rawson</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hoannc54">
-        <img src="https://avatars2.githubusercontent.com/u/10738135" width="100px;" alt="hoannc54"/>
-      </a>
-      <br />
-      <a href="https://github.com/hoannc54">Nguyễn Công Hoan</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/smithg09">
-        <img src="https://avatars2.githubusercontent.com/u/41014321" width="100px;" alt="smithg09"/>
-      </a>
-      <br />
-      <a href="https://github.com/smithg09">Smith Gajjar</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fikritrader">
-        <img src="https://avatars2.githubusercontent.com/u/29796367" width="100px;" alt="fikritrader"/>
-      </a>
-      <br />
-      <a href="https://github.com/fikritrader">fikritrader</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/iwancilibur">
-        <img src="https://avatars2.githubusercontent.com/u/32497273" width="100px;" alt="iwancilibur"/>
-      </a>
-      <br />
-      <a href="https://github.com/iwancilibur">Iwan Cilibur</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sheheryar17">
-        <img src="https://avatars2.githubusercontent.com/u/30393948" width="100px;" alt="sheheryar17"/>
-      </a>
-      <br />
-      <a href="https://github.com/sheheryar17">Sheheryar Afzal</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Yusuf1n">
-        <img src="https://avatars2.githubusercontent.com/u/71137409" width="100px;" alt="Yusuf1n"/>
-      </a>
-      <br />
-      <a href="https://github.com/Yusuf1n">Yusuf Naheem</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XuanToa">
-        <img src="https://avatars2.githubusercontent.com/u/25999210" width="100px;" alt="XuanToa"/>
-      </a>
-      <br />
-      <a href="https://github.com/XuanToa">Xuan-Toa Tran</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SourabhSaha71">
-        <img src="https://avatars2.githubusercontent.com/u/56047879" width="100px;" alt="SourabhSaha71"/>
-      </a>
-      <br />
-      <a href="https://github.com/SourabhSaha71">Sourabh Saha</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ARAV0411">
-        <img src="https://avatars2.githubusercontent.com/u/58031492" width="100px;" alt="ARAV0411"/>
-      </a>
-      <br />
-      <a href="https://github.com/ARAV0411">ARAVINDHAN R</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abhi36rai">
-        <img src="https://avatars2.githubusercontent.com/u/45686729" width="100px;" alt="abhi36rai"/>
-      </a>
-      <br />
-      <a href="https://github.com/abhi36rai">abhi36rai</a>
-    </td>
-  </tr>
-</table>
-
-
-<div  align="left">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<br />
- <div align="left">
 <p>
-Teams - [https://join.skype.com/invite/uU331IODpYlM](https://teams.live.com/l/invite/FAA0DrgII9FHP2vhBU?v=g1)
+  <a href="mailto:timon0305@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
+  <a href="https://teams.live.com/l/invite/FAA0DrgII9FHP2vhBU?v=g1"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams" /></a>
 </p>
-<p>
-Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
-</p>
-</div>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
