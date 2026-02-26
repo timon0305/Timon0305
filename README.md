@@ -238,9 +238,6 @@ I'm passionate about creating elegant solutions to complex problems, mentoring d
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timon0305&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Timon0305&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
 
 
 
@@ -250,7 +247,9 @@ I'm passionate about creating elegant solutions to complex problems, mentoring d
 
 <p>
   <a href="mailto:timon0305@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>
+  <a href="mailto:timon03051996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://teams.live.com/l/invite/FAA0DrgII9FHP2vhBU?v=g1"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams" /></a>
+  <a href="https://t.me/anserdei"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
