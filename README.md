@@ -253,7 +253,7 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 <br />
  <div align="left">
 <p>
-Skype - https://join.skype.com/invite/uU331IODpYlM
+Teams - [https://join.skype.com/invite/uU331IODpYlM](https://teams.live.com/l/invite/FAA0DrgII9FHP2vhBU?v=g1)
 </p>
 <p>
 Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a>
