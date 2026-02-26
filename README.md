@@ -4,21 +4,18 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+blockchain+Developer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Full+Stack+Software+Engineer;Frontend+Specialist;AI+Integration+Expert;8%2B+Years+of+Experience)](https://git.io/typing-svg)
   
   
   
   
 </h1>
 
-Hi, 
-I love to read and run. I volunteer regularly and am passionate about social good and technology. 
+Hi, I'm **Ivan Skripka** - a Frontend-focused Full Stack Engineer with 8 years of experience building modern web applications.
 
-Currently, I am working on Upwork.com and I am looking for a new role in full stack development. 
+Proficient in React, TypeScript, Next.js, Angular, and Vue.js, with additional expertise in Node.js and cloud deployment. I've delivered enterprise dashboards, e-commerce platforms, and AI-powered tools that enhanced efficiency and user experience. I led a system migration that reduced downtime by 30%.
 
-I love my job! I hang out with a lot of tech nerds. I am a tech and political geek myself. I tried to pick up programming but not sure if I can do that for my career. I regularly attend tech meetups and I know a lot of powerful people in the tech industry. 
-
-I don't like pushy people. If you are nice, I will go out of my way to help you. I like to treat people with respect. I enjoy helping people and I love to learn about new technologies. Story of my life. :)
+I'm passionate about creating elegant solutions to complex problems, mentoring developers, and continuously learning new technologies. I enjoy collaborating with teams and building products that make a real impact.
 <br>
     &nbsp; &nbsp; 
 
@@ -32,49 +29,129 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 
 <p align="center">
 
-
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
+  <!-- Frontend Frameworks -->
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
+  <!-- Languages -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <br />
+  <!-- Styling -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+  <br />
+  <!-- Backend - Node/JS -->
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+  <br />
+  <!-- Backend - Python -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <!-- Backend - Java -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <!-- Database -->
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-   <br />
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
+  <br />
+  <!-- Cloud & DevOps -->
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <!-- Testing -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <br />
+  <!-- Mobile & AI -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg"></code>
 
   <br />
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Professional Experience
+
+**Abundant AI | AI Engineer** &nbsp; *September 2025 - Present | United States (Remote)*
+- Pushing the boundaries of AI by developing and integrating cutting-edge AI solutions
+- Building AI-powered tools and applications to enhance user productivity and experience
+- Collaborating with cross-functional teams to deliver innovative AI-driven features
+
+**Dependable Aviation | Frontend Developer** &nbsp; *April 2025 - September 2025 | United States (Remote)*
+- Developed responsive web applications for an aviation training platform, enabling students to book lessons and access ground school materials
+- Built reusable UI components using React.js and TypeScript, improving code maintainability
+- Implemented interactive scheduling system for flight training sessions based on instructor availability
+
+**FUZEMOBI, L.L.C. | Full Stack Software Engineer** &nbsp; *May 2024 - March 2025 | United States (Remote)*
+- Led development of scalable web solutions, transforming complex technological challenges into elegant applications
+- Architected and deployed full-stack applications using React, Next.js, Node.js, and cloud infrastructure
+- Implemented SEO optimization strategies improving organic search visibility for client projects
+- Mentored junior developers and established coding standards across the engineering team
+
+**Dependable Painting | Senior Frontend Developer** &nbsp; *October 2023 - April 2024 | United States (Remote)*
+- Led frontend development for a painting and remodeling company, contributing to high ratings across Google, Facebook, and Yelp
+- Designed and built responsive website showcasing services, portfolio galleries, and customer testimonials
+- Developed online quote request system, streamlining customer inquiries and improving lead generation
+
+**Signed Trade | Blockchain Developer** &nbsp; *December 2022 - September 2023 | California, United States (Remote)*
+- Developed decentralized music investment platform enabling artists and fans to tokenize and trade music assets
+- Built responsive frontend interfaces using Angular and Tailwind CSS for seamless user experience
+- Wrote and deployed smart contracts using Solidity for secure, transparent transactions
+
+**Utalk | Mobile Application Developer** &nbsp; *March 2022 - August 2022 | United States (Remote)*
+- Developed cross-platform mobile application for language learning, serving speakers of 100+ languages
+- Built mobile interfaces using React Native and React with Redux state management
+- Integrated RESTful APIs and Google Cloud Platform services for scalable backend operations
+
+**Dap-ayan | Project Manager / Technical Lead** &nbsp; *January 2022 - February 2022 | New Zealand (Remote)*
+- Led development of cultural heritage platform preserving traditional dap-ayan practices of Ilocos Norte
+- Managed migration of legacy Zend backend to Laravel/Node.js, reducing query time by 44%
+- Oversaw frontend development using Next.js with real-time WebSocket features
+
+**Cigna Healthcare | Full Stack Developer** &nbsp; *January 2019 - December 2021 | United States (Remote)*
+- Developed and maintained enterprise membership management system using Angular
+- Designed RESTful APIs connecting frontend with Java Spring Boot backend services
+- Managed data operations with OracleDB and containerized applications using Docker
+- Implemented CI/CD pipelines and ensured HIPAA compliance for healthcare data
+
+**KCP Finance | Full Stack Developer** &nbsp; *January 2018 - December 2018 | Philippines (Remote)*
+- Planned and executed migration from Heroku to Google Cloud, saving 30% in service fees
+- Improved system scalability for APIs, databases, caching, and workflows
+- Developed e-commerce features using WooCommerce, TypeScript, Node.js, and GraphQL
+
+**iLearn Technology | Programmer** &nbsp; *March 2017 - December 2017 | United Kingdom (Remote)*
+- Built product search engine functionality contributing to $320K quarterly sales in 2018
+- Reviewed code, debugged problems, and resolved issues in existing web systems
+- Collaborated with 3 engineering teams using MERN Stack and PHP
+
+---
 
 <h2 align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github stats </h2>
 
@@ -109,8 +186,6 @@ I don't like pushy people. If you are nice, I will go out of my way to help you.
 </p>
 
 
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Timon0305/Timon0305/blob/main/profile-3d-contrib/profile-night-rainbow.svg"><img src="https://github.com/Timon0305/Timon0305/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" style="max-width: 100%;"></a></p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Activity
