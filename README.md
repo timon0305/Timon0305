@@ -11,7 +11,7 @@
   
 </h1>
 
-Hi, I'm **Zilin Jin** - a Frontend-focused Full Stack Engineer with 8 years of experience building modern web applications.
+Hi, I'm a Frontend-focused Full Stack Engineer with 8 years of experience building modern web applications.
 
 Proficient in React, TypeScript, Next.js, Angular, and Vue.js, with additional expertise in Node.js and cloud deployment. I've delivered enterprise dashboards, e-commerce platforms, and AI-powered tools that enhanced efficiency and user experience. I led a system migration that reduced downtime by 30%.
 
